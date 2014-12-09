@@ -1,0 +1,14 @@
+{
+	"name": "Sam's URL Manager",
+	"description": "Tolerating my laziness and feeding my passion to code",
+	"version": "1.0",
+	"background": {
+		"scripts": [
+			"script.js"
+		]
+	},
+	"omnibox": {
+		"keyword": "url"
+	},
+	"manifest_version": 2
+}
